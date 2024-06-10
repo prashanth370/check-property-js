@@ -1,0 +1,31 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
+
+#myText{
+    font-size: 20px;
+}
+
+#mySubmit{
+    font-size: 1em;
+    cursor: pointer;
+    background-size: 0%;
+    text-align: center;
+}
+
+
+#mySubmit:hover{
+    background-color: hsla(0, 0%, 0%, 0.724);
+    color: #ffffff;
+}
+
+#mySubmit:active{
+    background-color: hsla(0, 0%, 0%, 0.724);
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 1em;
+    font-weight: normal;
+}
